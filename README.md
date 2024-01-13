@@ -5,4 +5,4 @@ This repository contains about 1500 images (of 22,275) captured to train the mod
 
 In addition, two Python codes that define and implement the model are presented as model.h5.
 
-There are two videos attached showing the outputs for the different environments trained.
+Three videos are attached, showing the outputs for the different environments trained and the input in the anaconda command prompt.
